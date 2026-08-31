@@ -42,10 +42,10 @@
     "screenshot": "https://api.microlink.io/?url=http%3A%2F%2FSeostudio.tools&screenshot=true&meta=false&embed=screenshot.url"
   },
   {
-    "title": "reactibits.dev",
-    "description": "Automated entry - metadata could not be fetched.",
-    "url": "http://Reactibits.dev",
-    "screenshot": "https://api.microlink.io/?url=http%3A%2F%2FReactibits.dev&screenshot=true&meta=false&embed=screenshot.url"
+    "title": "React Bits",
+    "description": "An open source collection of high quality, animated, interactive & fully customizable React components for building stunning, memorable user interfaces.",
+    "url": "https://reactbits.dev",
+    "screenshot": "https://api.microlink.io/?url=https%3A%2F%2Freactbits.dev&screenshot=true&meta=false&embed=screenshot.url"
   },
   {
     "title": "Make My Drive Fun",
