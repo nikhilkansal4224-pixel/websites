@@ -58,5 +58,11 @@
     "description": "Wolfram|Alpha brings expert-level knowledge and capabilities to the broadest possible range of people—spanning all professions and education levels.",
     "url": "http://Wolframalpha.com",
     "screenshot": "https://api.microlink.io/?url=http%3A%2F%2FWolframalpha.com&screenshot=true&meta=false&embed=screenshot.url"
+  },
+  {
+    "title": "Wayback MachineHamburger iconInternet Archive logoWeb iconTexts iconVideo iconAudio iconSoftware iconImages iconDonate iconEllipses iconDonate iconUser iconUpload iconSearch iconSearch iconDonate icon",
+    "description": "No description available.",
+    "url": "https://web.archive.org",
+    "screenshot": "https://api.microlink.io/?url=https%3A%2F%2Fweb.archive.org&screenshot=true&meta=false&embed=screenshot.url"
   }
 ]
